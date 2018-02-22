@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Rob Wiltshire</title>
+ <link href="http://www.robertwiltshire.co.uk/atom.xml" rel="self"/>
+ <link href="http://www.robertwiltshire.co.uk/"/>
+ <updated>2016-10-29T00:30:35+01:00</updated>
+ <id>http://www.robertwiltshire.co.uk</id>
+ <author>
+   <name>Rob Wiltshire</name>
+   <email>robert.wiltshire@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>The everyday web still inspires me.</title>
+   <link href="http://www.robertwiltshire.co.uk/2016/10/28/the-everyday-web/"/>
+   <updated>2016-10-28T00:00:00+01:00</updated>
+   <id>http://www.robertwiltshire.co.uk/2016/10/28/the-everyday-web</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/t_ggAhOeRc0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;It’s amazing how far the web has come in all that time from being so wild, so &lt;a href=&quot;http://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1/&quot;&gt;insecure&lt;/a&gt;, so fresh, to the point that it’s just so &lt;em&gt;banal&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have no children, which makes it difficult to completely empathise with the child of the First World today.  But I’ll bet that, and yes I’m generalising here, that because the web is so ubiquitous , that using it as learning tool has become so mundane and everyday that it doesn’t excite or enthrall them, like it does for me.&lt;/p&gt;
+
+&lt;p&gt;I don’t care if anyone thinks its nerdy to love all this stuff. I love it. If I see a new bit of fancy UI, I’ll instantly F12 it just so I can poke around someone’s CSS or javascript. (Of course you could do more delving &lt;em&gt;back in the day&lt;/em&gt; before everyone started minifying everything).&lt;/p&gt;
+
+&lt;p&gt;It’s hard to imagine the kids of today getting excited about a bit of ajax, to be honest I probably wouldn’t have been excited by ajax when I was nine - I loved to play Spy Hunter when I was nine. I didn’t even know what a modem was, let alone would I know thing about &lt;em&gt;electronic communication&lt;/em&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/88WFtJKH8k0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p style=&quot;font-size:0.8em;&quot;&gt;I always used to try to run over all of the ducks in my speedboat in Spy Hunter&lt;/p&gt;
+
+&lt;p&gt;I know stuff like ajax is such a basic, commonplace thing on today’s web. But I still think ajax is cool, it’s still a little bit like magic.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>blog || !blog</title>
+   <link href="http://www.robertwiltshire.co.uk/2016/10/26/to-blog-or-to-not-blog/"/>
+   <updated>2016-10-26T00:00:00+01:00</updated>
+   <id>http://www.robertwiltshire.co.uk/2016/10/26/to-blog-or-to-not-blog</id>
+   <content type="html">&lt;p&gt;To be honest, I’m not much of a blogger. I’m lazy and I have little motivation. But I’m giving it a crack, and it might actually turn into something.&lt;/p&gt;
+
+&lt;p&gt;I’ve been a web guy for the best part of twenty years, and before that I was just a kid that grew up with home computing and video games.&lt;/p&gt;
+
+&lt;p&gt;Its not the most interesting background story, I’ll admit. Please be kind&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
