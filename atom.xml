@@ -4,31 +4,44 @@
  <title>Rob Wiltshire</title>
  <link href="http://www.robertwiltshire.co.uk/atom.xml" rel="self"/>
  <link href="http://www.robertwiltshire.co.uk/"/>
- <updated>2018-02-24T12:49:31+00:00</updated>
+ <updated>2018-02-24T13:29:58+00:00</updated>
  <id>http://www.robertwiltshire.co.uk</id>
  <author>
    <name>Rob Wiltshire</name>
-   <email>robert.wiltshire@gmail.com</email>
+   <email>info@robertwiltshire.co.uk</email>
  </author>
 
+ 
+ <entry>
+   <title>GitHubbin' it.</title>
+   <link href="http://www.robertwiltshire.co.uk/2018/02/24/githubbin-it/"/>
+   <updated>2018-02-24T00:00:00+00:00</updated>
+   <id>http://www.robertwiltshire.co.uk/2018/02/24/githubbin-it</id>
+   <content type="html">&lt;p&gt;Just a quick post.&lt;/p&gt;
+
+&lt;p&gt;I’ve ditched the conventional ways of hosting for this site for using github-pages instead. It makes sense, cos its free hosting. And I’ve no need to be using PHP all the time.&lt;/p&gt;
+
+&lt;p&gt;It helps switch my brain back to thinking about simple static websites.&lt;/p&gt;
+
+&lt;p&gt;Kind of like how we used to do it back in ‘99.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The everyday web still inspires me.</title>
    <link href="http://www.robertwiltshire.co.uk/2016/10/28/the-everyday-web/"/>
    <updated>2016-10-28T00:00:00+01:00</updated>
    <id>http://www.robertwiltshire.co.uk/2016/10/28/the-everyday-web</id>
-   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/t_ggAhOeRc0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;It’s amazing how far the web has come in all that time from being so wild, so &lt;a href=&quot;http://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1/&quot;&gt;insecure&lt;/a&gt;, so fresh and new, to the web we haqve today that is so banal for the .&lt;/p&gt;
-
-&lt;p&gt;It’s hard to imagine kids these days getting excited about a bit of &lt;a href=&quot;https://en.wikipedia.org/wiki/Ajax_(programming)#History&quot;&gt;Ajax&lt;/a&gt;, to be honest I probably wouldn’t have been excited by ajax when I was nine I was to absorbed with playing &lt;a href=&quot;https://en.wikipedia.org/wiki/Spy_Hunter&quot;&gt;Spy Hunter&lt;/a&gt; on my &lt;a href=&quot;https://en.wikipedia.org/wiki/ZX_Spectrum&quot;&gt;Spectrum&lt;/a&gt; when I was nine. I didn’t even know what a modem was, let alone know anything about &lt;em&gt;electronic communication&lt;/em&gt;.&lt;/p&gt;
-
+   <content type="html">&lt;p&gt;It’s amazing how far the web has come in all that time from being so wild, so &lt;a href=&quot;http://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1/&quot;&gt;insecure&lt;/a&gt;, so fresh and new, to the web we have today that is so banal.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/88WFtJKH8k0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p style=&quot;font-size:0.8em;&quot;&gt;I always used to try to run over all of the ducks in my speedboat in Spy Hunter&lt;/p&gt;
+&lt;p&gt;It’s hard to imagine kids these days getting excited about a bit of &lt;a href=&quot;https://en.wikipedia.org/wiki/Ajax_(programming)#History&quot;&gt;Ajax&lt;/a&gt;, to be honest I probably wouldn’t have been excited by Ajax when I was nine I was to absorbed with playing &lt;a href=&quot;https://en.wikipedia.org/wiki/Spy_Hunter&quot;&gt;Spy Hunter&lt;/a&gt; on my &lt;a href=&quot;https://en.wikipedia.org/wiki/ZX_Spectrum&quot;&gt;Spectrum&lt;/a&gt; when I was nine. I didn’t even know what a modem was, let alone know anything about &lt;em&gt;electronic communication&lt;/em&gt;.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/t_ggAhOeRc0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p style=&quot;font-size:0.8em;&quot;&gt;&quot;Ajax is that floor cleaning stuff that mum uses&quot;&lt;/p&gt;
 
 &lt;p&gt;I don’t care if anyone thinks its nerdy to love all this stuff. I love it. If I see a new bit of fancy UI, I’ll instantly F12 it just so I can poke around someone’s CSS or javascript. (Of course you could do more delving &lt;em&gt;back in the day&lt;/em&gt; before everyone started minifying everything).&lt;/p&gt;
 
-&lt;p&gt;I know stuff like ajax is such a basic, commonplace thing on today’s web. But I still think ajax is cool, it’s still a little bit like magic.&lt;/p&gt;
+&lt;p&gt;I know stuff like Ajax is such a commonplace, yet largely invisible thing on today’s web. But I still think Ajax is still a bit cool, a little bit like magic.&lt;/p&gt;
 </content>
  </entry>
  
